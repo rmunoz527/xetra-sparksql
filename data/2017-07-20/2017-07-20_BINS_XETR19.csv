@@ -1,0 +1,4 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE000A2E4SX4","WL6J","WILEX AG   JGE O.N.","Common stock","EUR",2504656,2017-07-20,19:30,3.041,3.041,3.041,3.041,0,1
+"DE0006569403","ALG","ALBIS LEASING AG O.N.","Common stock","EUR",2505044,2017-07-20,19:30,4.035,4.035,4.035,4.035,0,1
+"DE0007297004","SZU","SUEDZUCKER AG  O.N.","Common stock","EUR",2505095,2017-07-20,19:30,17.845,17.845,17.845,17.845,0,1

@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"DE0007612103","G6P","GOING PUBLIC MEDIA AG","Common stock","EUR",2505111,2017-07-25,19:30,4.55,4.55,4.55,4.55,0,1

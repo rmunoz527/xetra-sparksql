@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"FR0000124711","UBL","UNIBAIL-ROD.SE INH.  EO 5","Common stock","EUR",2505180,2017-07-03,19:30,213.85,213.85,213.85,213.85,0,1

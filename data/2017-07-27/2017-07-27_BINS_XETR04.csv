@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US02083G1004","34LA","ALPINE IMMUNE SCI.DL-,001","Common stock","EUR",2574301,2017-07-27,04:00,8.224,8.224,8.224,8.224,0,1

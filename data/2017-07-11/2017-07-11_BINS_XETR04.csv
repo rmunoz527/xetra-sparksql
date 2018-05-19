@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"IE00BYT5CV85","UIQ1","UBS ETFS-CMCI EX-AS HEOAA","ETF","EUR",2537060,2017-07-11,04:00,108.24,108.24,108.24,108.24,0,1

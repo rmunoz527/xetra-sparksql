@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"FR0000120172","CAR","CARREFOUR S.A. INH.EO 2,5","Common stock","EUR",2505165,2017-07-10,19:30,20.68,20.68,20.68,20.68,0,1

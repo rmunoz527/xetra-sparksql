@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"US1491231015","CAT1","CATERPILLAR INC.     DL 1","Common stock","EUR",2506453,2017-07-17,19:30,93.92,93.92,93.92,93.92,0,1
